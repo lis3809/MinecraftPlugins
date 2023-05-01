@@ -1,0 +1,13 @@
+name: MobsterPlugin
+version: '${project.version}'
+main: stels.mob.MobsterPlugin
+authors: [stels]
+commands:
+  getzombi:
+    description: Get new Zombi
+  getnecroman:
+    description: Get new Necroman
+  killmobster:
+    description: Kill mobs
+  getvillager:
+    description: Get new villager
